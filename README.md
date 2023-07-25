@@ -17,7 +17,7 @@ You can add almost anything to the index.html file between the indicated comment
 
 `<!-- Insert your message below here -->`
 
-Thanks for wonderful Git tutorial!
+Thanks for wonderful Git tutorial! all the best!
 
 `<!-- End user messages -->`
 
